@@ -1,0 +1,4 @@
+pytest-ini==0.33
+pytest==7.4.0
+requests==2.31.0
+Faker==19.3.0
